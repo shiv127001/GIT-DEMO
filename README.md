@@ -1,2 +1,3 @@
 # GIT-DEMO
-Practicing the git and github commands
+Practicing the git and github commands...
+Learning the commands 
